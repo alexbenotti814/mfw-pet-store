@@ -8,7 +8,7 @@
 }
 
 
-.jumbotron{
+.jumbotron  {
 background-image:  URL('../img/alt-hero.jpg');
 background-size: cover;
 background-position: center;
@@ -23,9 +23,10 @@ margin-top: 100px;
 
 }
 
-.img-box {
-  height: 100px;
-  width: 100px;
+.product {
+background-color:#eeddcd;
+border-radius: 5%;
+padding: 10px;
 }
 
 footer {
